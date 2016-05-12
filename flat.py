@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+__author__      = "Anatoly Karashchuk"
 
 """ Ремонт в квартире 
 
